@@ -22,6 +22,7 @@ Java
 * [Random numbers in Java](https://www.geeksforgeeks.org/generating-random-numbers-in-java/)
 * [File Handling](https://www.geeksforgeeks.org/file-handling-java-using-filewriter-filereader/)
 * [Date and Time in Java](https://www.w3schools.com/java/java_date.asp)
+* [Java String Methods](https://www.w3schools.com/java/java_ref_string.asp)
 
 # Future Work
 
