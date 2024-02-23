@@ -4,7 +4,7 @@ This software is a console app written in Java. It is a guessing game that gives
 
 My purpose is to develop an understanding of the basic syntax and workings of Java through creating a console program.
 
-[Software Demo Video]()
+[Software Demo Video](https://www.loom.com/share/26437ed1c2e2479899b7eb2574910416?sid=8d886725-83fc-4ee4-a604-42a5c35dba12)
 
 # Development Environment
 
@@ -26,6 +26,6 @@ Java
 
 # Future Work
 
-* Add 
-* Add 
-* Add 
+* Add a cute animatino to show loading
+* Add the ability to save results and load them later (maybe to compete against yourself?)
+* Add the ability to keep score across multiple 2-player games so you can do best two-out-of-three
