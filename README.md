@@ -26,6 +26,6 @@ Java
 
 # Future Work
 
-* Add a cute animatino to show loading
+* Add a cute animation to show loading
 * Add the ability to save results and load them later (maybe to compete against yourself?)
 * Add the ability to keep score across multiple 2-player games so you can do best two-out-of-three
